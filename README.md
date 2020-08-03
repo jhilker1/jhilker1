@@ -1,4 +1,4 @@
-#### Hi There
+### Hi There
 I'm Jacob, and I'm currently a student at the University of Mary Washington. I'm curently looking to get into Software Development.
 
 Skills: REACT / JS / HTML / CSS / GIT / PYTHON
